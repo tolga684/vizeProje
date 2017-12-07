@@ -1,0 +1,76 @@
+[
+  {
+    "short_name": "L",
+    "name": "Lisans",
+    "donemler": [
+      {
+        "short_name": "LG",
+        "name": "Güz",
+        "sinif": [
+          {
+            "id": "LG1",
+            "name": "1.Sınıf",
+            "program": "LG1P"
+          },
+          {
+            "id": "LG2",
+            "name": "2.Sınıf",
+            "program": "LG2P"
+          },
+          {
+            "id": "LG3",
+            "name": "3.Sınıf",
+            "program": "LG3P"
+          },
+          {
+            "id": "LG4",
+            "name": "4.Sınıf",
+            "program": "LG4P"
+          }
+        ]
+      },
+      {
+        "short_name": "LB",
+        "name": "Bahar",
+        "sinif": [
+          {
+            "id": "LB1",
+            "name": "1.Sınıf",
+            "program":  "LB1P"
+          },
+          {
+            "id": "LB2",
+            "name": "2.Sınıf",
+            "program": "LB2P"
+          },
+          {
+            "id": "LB3",
+            "name": "3.Sınıf",
+            "program": "LB3P"
+          },
+          {
+            "id": "LB4",
+            "name": "4.Sınıf",
+            "program": "LB4P"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "short_name": "Y",
+    "name": "Yuksek Lisans",
+    "donemler": [
+      {
+        "short_name": "YG",
+        "name": "Güz",
+        "program": "YGP"
+      },
+      {
+        "short_name": "YB",
+        "name": "Bahar",
+        "program": "YBP"
+      }
+    ]
+  }
+]

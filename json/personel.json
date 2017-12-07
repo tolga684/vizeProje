@@ -1,0 +1,187 @@
+[
+  {
+    "short_name": "OU",
+    "name": "Ogretim Uyeleri",
+    "personeller": [
+      {
+        "short_name":  "OU1",
+        "unvan":"Prof.Dr.",
+        "isim": "Oğuz Dikenelli",
+        "gorev": "Bölüm Başkanı",
+        "email": "oguz.dikenelli@ege.edu.tr"
+      },
+      {
+        "short_name":  "OU2",
+        "unvan":"Prof.Dr.",
+        "isim": "Serdar Korukoğlu",
+        "gorev": "Bilgisayar Bilimleri Ana Bilim Dalı Başkanı",
+        "email": "serdar.korukoglu@ege.edu.tr"
+      },
+      {
+        "short_name":  "OU3",
+        "unvan":"Prof.Dr.",
+        "isim": "Levent TOKER",
+        "gorev": "Öğretim Üyesi",
+        "email": "toker1960@gmail.com"
+      },
+      {
+        "short_name":  "OU4",
+        "unvan":"Prof.Dr.",
+        "isim": "Yasemin TOPALOĞLU",
+        "gorev": "Öğretim Üyesi",
+        "email": "yasemin.topaloglu@ege.edu.tr"
+      },
+      {
+        "short_name":  "OU5",
+        "unvan":"Prof.Dr.",
+        "isim": "Aylin KANTARCI",
+        "gorev": "Bilgisayar Donanımı Ana Bilim Dalı Başkanı",
+        "email": "aylin.kantarci@ege.edu.tr"
+      },
+      {
+        "short_name":  "OU6",
+        "unvan":"Prof.Dr.",
+        "isim": "Aybars UĞUR",
+        "gorev": "Bilgisayar Yazılımı Ana Bilim Dalı Başkanı",
+        "email": "aybars.ugur@ege.edu.tr"
+      },
+      {
+        "short_name":  "OU7",
+        "unvan":"Doc.Dr.",
+        "isim": "Rıza Cenk ERDUR",
+        "gorev": "Bölüm Başkan Yardımcısı",
+        "email": "cenk.erdur@ege.edu.tr"
+      },
+      {
+        "short_name":  "OU8",
+        "unvan":"Doc.Dr.",
+        "isim": "Murat Osman ÜNALIR",
+        "gorev": "Bölüm Başkan Yardımcısı",
+        "email": "murat.osman.unalir@ege.edu.tr"
+      },
+      {
+        "short_name":  "OU9",
+        "unvan":"Doc.Dr.",
+        "isim": "Vecdi AYTAÇ",
+        "gorev": "Öğretim Üyesi",
+        "email": "vecdi.aytac@ege.edu.tr"
+      }
+    ]
+  },
+  {
+    "short_name": "AY",
+    "name": "Akademik Yardimci",
+    "personeller": [
+      {
+        "short_name":  "AY1",
+        "unvan":"Ars.Gör.Dr.",
+        "isim": "Özgün YILMAZ",
+        "gorev": "Araştırma Görevlisi",
+        "email": "ozgun.yilmaz@ege.edu.tr"
+      },
+      {
+        "short_name":  "AY2",
+        "unvan":"Ars.Gör.Dr.",
+        "isim": "Birol ÇİLOĞLUGİL",
+        "gorev": "Araştırma Görevlisi",
+        "email": "birol.ciloglugil@ege.edu.tr"
+      },
+      {
+        "short_name":  "AY3",
+        "unvan":"Ars.Gör.Dr.",
+        "isim": "Osman Gökalp",
+        "gorev": "Araştırma Görevlisi",
+        "email": "osman.gokalp@ege.edu.tr"
+      },
+      {
+        "short_name":  "AY4",
+        "unvan":"Ars.Gör.Dr.",
+        "isim": "Fatmana Şentürk",
+        "gorev": "Araştırma Görevlisi",
+        "email": "fatmana.senturk@ege.edu.tr"
+      },
+      {
+        "short_name":  "AY5",
+        "unvan":"Ars.Gör.Dr.",
+        "isim": "Remzi Çelebi",
+        "gorev": "ÖYP Araştırma Görevlisi",
+        "email": "remzi.celebi@ege.edu.tr"
+      },
+      {
+        "short_name":  "AY6",
+        "unvan":"Ars.Gör.Dr",
+        "isim": "Rabia KORKMAZ TAN",
+        "gorev": "ÖYP Araştırma Görevlisi",
+        "email": "rabia.korkmaz@ege.edu.tr"
+      },
+      {
+        "short_name":  "AY7",
+        "unvan":"Ars.Gör.Dr.",
+        "isim": "Sevcan Emek",
+        "gorev": "ÖYP Araştırma Görevlisi",
+        "email": "sevcan.emek@ege.edu.tr"
+      },
+      {
+        "short_name":  "AY8",
+        "unvan":"Ars.Gör.Dr.",
+        "isim": "Sema Bodur",
+        "gorev": "ÖYP Araştırma Görevlisi",
+        "email": "sema.bodur@ege.edu.tr"
+      },
+      {
+        "short_name":  "AY9",
+        "unvan":"Ars.Gör.Dr.",
+        "isim": "Sinem Çınaroğlu",
+        "gorev": "ÖYP Araştırma Görevlisi",
+        "email": "sinem.oren@ege.edu.tr"
+      }
+    ]
+  },
+  {
+    "short_name": "IT",
+    "name": "Idari Teknik",
+    "personeller": [
+      {
+        "short_name": "IT1",
+        "unvan":"Bölüm Sekreteri",
+        "isim": "Sibel Demirel",
+        "gorev": "Bölüm Sekreteri",
+        "email": "bilmuh@mail.ege.edu.tr"
+      },
+      {
+        "short_name": "IT2",
+        "unvan":"Bölüm Sekreteri",
+        "isim": "Şevket Yıldız",
+        "gorev": "Bölüm Sekreteri",
+        "email": "sevket.yildiz@ege.edu.tr"
+      },
+      {
+        "short_name": "IT3",
+        "unvan":"Öğrenci İşleri Sorumlusu",
+        "isim": "Beyhan Kılıç",
+        "gorev": "Öğrenci İşleri Sorumlusu",
+        "email": ""
+      },
+      {"short_name": "IT4",
+        "unvan":"Danışma",
+        "isim": "Faruk Erat",
+        "gorev": "Danışma",
+        "email": "faruk.erat@ege.edu.tr"
+      },
+      {
+        "short_name": "IT5",
+        "unvan":"Hizmetli",
+        "isim": "Hayriye Uygun",
+        "gorev": "Hizmetli",
+        "email": ""
+      },
+      {
+        "short_name": "IT6",
+        "unvan":"Hizmetli",
+        "isim": "Okan Çorbacıoğlu",
+        "gorev": "Hizmetli",
+        "email": ""
+      }
+    ]
+  }
+]
